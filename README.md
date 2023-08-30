@@ -1,4 +1,4 @@
-# graduatio_project
+# E-Commerce Pharmacies System
 
 A new Flutter project.
 
